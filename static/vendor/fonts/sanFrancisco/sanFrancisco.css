@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'SanFrancisco';
+    src: url('SanFrancisco_Medium-webfont.woff2') format('woff2'),
+         url('SanFrancisco_Medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SanFrancisco Thin';
+    src: url('SanFrancisco_Thin-webfont.woff2') format('woff2'),
+         url('SanFrancisco_Thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SanFrancisco Ultralight';
+    src: url('SanFrancisco_Ultralight-webfont.woff2') format('woff2'),
+         url('SanFrancisco_Ultralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
